@@ -1,6 +1,6 @@
 # Chris Chin-shu Shao :deciduous_tree: :deciduous_tree:
 
-Hi, I'm Chris (he/him)--a current Computer Engineering graduate student:man_student: at New York University. I traveled throughout my entire school life (Taiwan :arrow_right: Mainland China :arrow_right: California :arrow_right: New York) and the experience leads me to perceive things tend to different aspect of views:eye_speech_bubble:.` The most motivative thing to me is seeing technologies blending into different cultures and lives and creating the limitless possibilities. I previously interned at Chihuo Inc. software development team with a next-generation E-commerce platform and currently preparing for Full-time Software Engineer role starting next year.
+Hi, I'm Chris (he/him)--a current Computer Engineering graduate student:man_student: at New York University. I traveled throughout my entire school life (Taiwan :arrow_right: Mainland China :arrow_right: California :arrow_right: New York) and the experience shapes me to be inclusive to this fast-changing world. The most motivative thing to me is seeing technologies blending into different cultures and lives and creating limitless possibilities. I previously interned at Chihuo Inc. software development team with a next-generation E-commerce platform and currently preparing for Full-time Software Engineer role starting next year.
 
 
 
