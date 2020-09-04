@@ -1,15 +1,14 @@
 # Chris Chin-shu Shao :deciduous_tree: :deciduous_tree:
 
-Hi, I'm Chris (he/him)--a current Computer Engineering graduate student:man_student: at New York University. I traveled throughout my entire school life (Taiwan :arrow_right: Mainland China :arrow_right: California :arrow_right: New York) and the experience shapes me to be inclusive to this fast-changing world. The most motivative thing to me is seeing technologies blending into different cultures and lives and creating limitless possibilities. I previously interned at Chihuo Inc. software development team with a next-generation E-commerce platform and currently preparing for Full-time Software Engineer role starting next year.
+Hi, I'm Chris (he/him)--a current Computer Engineering graduate student:man_student: at New York University. I traveled throughout my entire school life (Taiwan :arrow_right: Mainland China :arrow_right: California :arrow_right: New York) and the experience shapes me to be inclusive to this fast-changing world. Therefore, I'm a person focus more on experiencing life, living in the moment. The most motivative thing to me is seeing technologies blending into different cultures and lives and creating limitless possibilities. I previously interned at Chihuo Inc. software development team with a next-generation E-commerce platform and currently preparing for Full-time Software Engineer role starting Feb 2021.
 
 
 
 ## Current working on
 
 - Preparing Full-time job interview
-- Refactoring distributed storage system project into a web version project with Javascript
-- Looking for interesting projects or practice on github (happy to talk!)
-
+- School
+- Looking for interesting projects or practice on github 
 
 
 
@@ -18,8 +17,8 @@ Hi, I'm Chris (he/him)--a current Computer Engineering graduate student:man_stud
 - Reading:book:
 - Travel:airplane:
 - Snowskating:snowboarder:
-- Rave:sparkler: (hope to attend most famous music festivals in 5 years)
-- Pc games:video_game: (recent play rarely)
+- Rave:sparkler:
+
 
 
 
