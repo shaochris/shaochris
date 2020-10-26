@@ -1,16 +1,16 @@
 # Chris Chin-shu Shao :deciduous_tree: :deciduous_tree:
 
-Hi, I'm Chris (he/him)--a current Computer Engineering graduate student:man_student: at New York University. I traveled throughout my entire school life (Taiwan :arrow_right: Mainland China :arrow_right: California :arrow_right: New York) and the experience shapes me to be inclusive to this diversified world. I'm a person focus more on experiencing the life and interested in advantures, explores and immerse myself in differnt cultures. The most motivative thing for my job is seeing technologies blending into different cultures and lives and making things possibile.
-
+Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_student: at New York University and I will be graduating in December 2020. I have created software projects in many different aspects, i.e. Web Apps(Python, JavaScript), Distributed Storage Systems(Java), HTTP server(C++) etc., where I gained a wide range of software development skills. Besides school work, I have internships at two startup companies and currently work on an open-source desktop tool in NYU mLab. I’m looking forward to joining a larger corporation to explore my Career!
 
 
 ## Current working on
 
-- NYU mLab IoT Inspector app (https://iotinspector.org/)
-- Preparing Full-time job interview
+- Looking for Full-time **Software Enginner** job starting in early 2021 [Leetcode Progress](https://www.notion.so/dd503eddd14640f88dda316b9196850e?v=ce9838f125094f9498a7632ebc58db25)
+- NYU mLab [IoT Inspector app](https://iotinspector.org/)
 - School
   - Machine Learning
   - Digital Signal Processing
+  - Java
 
 
 
@@ -35,7 +35,7 @@ Hi, I'm Chris (he/him)--a current Computer Engineering graduate student:man_stud
 ## Chat
 
 - :email: shaochris313@gmail.com
-- wechat: shaochris313
+- Linkedin: [Chris Shao](www.linkedin.com/in/chris-chinshu-shao)
 - Instagram: [chris_shao_](https://www.instagram.com/chris_shao_/)
 - Neteast Song List:
   - [TRAP](https://music.163.com/#/my/m/music/playlist?id=1992764918)
