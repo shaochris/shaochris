@@ -5,12 +5,13 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 
 ## Current working on
 
-- Looking for Full-time **Software Enginner** job starting in early 2021 [Leetcode Progress](https://www.notion.so/dd503eddd14640f88dda316b9196850e?v=ce9838f125094f9498a7632ebc58db25)
+- Looking for Full-time **Software Enginner** job starting in early 2021
 - NYU mLab [IoT Inspector app](https://iotinspector.org/)
 - School
   - Machine Learning
   - Digital Signal Processing
   - Java
+- [Leetcode Practice](https://www.notion.so/dd503eddd14640f88dda316b9196850e?v=ce9838f125094f9498a7632ebc58db25)
 
 
 
