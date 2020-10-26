@@ -11,6 +11,9 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
   - Machine Learning
   - Digital Signal Processing
   - Java
+  
+## Graphical presentation of Coding Language, Data Structures and Algorithms experience (Since Oct 2020)
+- [Coding Language](https://codestats.net/users/shaochris)
 - [Leetcode Practice](https://www.notion.so/dd503eddd14640f88dda316b9196850e?v=ce9838f125094f9498a7632ebc58db25)
 
 
@@ -18,14 +21,13 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 
 ## spare time?
 
-- Reading:book:
-  - [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death) by Neil Postman
-  - [Resurrection](https://en.wikipedia.org/wiki/Resurrection_(novel)) by Leo Tolstoy
-  - [The Tibetan Book of Living and Dying](https://en.wikipedia.org/wiki/The_Tibetan_Book_of_Living_and_Dying) by Sogyal Rinpoche
-  
+- [Reading](https://www.notion.so/Reading-List-161d31d0d8064a259b789881e919ee96):book:
+
 - Travel:airplane:
   - Planning: South America, Mediterranean region
+  
 - Snowskating:snowboarder:
+
 - Rave:sparkler:
   - Planning: TomorrowLand in Belgium
 
