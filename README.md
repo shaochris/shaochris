@@ -3,23 +3,24 @@
 Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_student: at New York University and I will be graduating in December 2020. I have created software projects in many different aspects, i.e. Web Apps(Python, JavaScript), Distributed Storage Systems(Java), HTTP server(C++) etc., where I gained a wide range of software development skills. Besides school work, I have internships at two startup companies and currently work on an open-source desktop tool in NYU mLab. I’m looking forward to joining a larger corporation to explore my Career!
 
 
-## Current working on
+# Current working on
 
-- Looking for Full-time **Software Enginner** job starting in early 2021
+- Looking for Full-time **Software Enginner** or **Web Developer** job starting in early 2021 (either onsite or remote)
+  - Please don't hasitate to send a [message](#'Contacts') if you think I'm a good fit for the position
 - NYU mLab [IoT Inspector app](https://iotinspector.org/)
 - School
   - Machine Learning
   - Digital Signal Processing
   - Java
   
-## Graphical presentation of Coding Language, Data Structures and Algorithms experience (Since Oct 2020)
+# Graphical presentation of Coding Language, Data Structures and Algorithms experience (Since Oct 2020)
 - [Coding Language](https://codestats.net/users/shaochris)
 - [Leetcode Practice](https://www.notion.so/dd503eddd14640f88dda316b9196850e?v=ce9838f125094f9498a7632ebc58db25)
 
 
 
 
-## spare time?
+# Fun
 
 - [Reading](https://www.notion.so/Reading-List-161d31d0d8064a259b789881e919ee96):book:
 
@@ -31,14 +32,14 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 - Rave:sparkler:
   - Planning: TomorrowLand in Belgium
 
+- [Favoriate Art Works](https://www.notion.so/Favorite-Art-Works-9881c44513b44aa587f2cc7223a85abd)
 
 
 
+# Contacts
 
-## Chat
-
-- :email: shaochris313@gmail.com
-- Linkedin: [Chris Shao](www.linkedin.com/in/chris-chinshu-shao)
+- :email: <shaochris313@gmail.com>
+- Linkedin: [Chris Chin-shu Shao](www.linkedin.com/in/chris-chinshu-shao)
 - Instagram: [chris_shao_](https://www.instagram.com/chris_shao_/)
 - Neteast Song List:
   - [TRAP](https://music.163.com/#/my/m/music/playlist?id=1992764918)
