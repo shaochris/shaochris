@@ -1,6 +1,6 @@
 # Chris Chin-shu Shao :deciduous_tree: :deciduous_tree:
 
-Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_student: at New York University and I will be graduating in December 2020. I have created software projects in many different aspects, i.e. [Web Apps(Python, JavaScript), Distributed Storage Systems(Java), HTTP server(C++) etc.](#projects), where I gained a wide range of software development skills. Besides school work, I have internships at two startup companies and currently work on an open-source desktop tool in NYU mLab. I’m looking forward to joining a larger corporation to explore my Career!
+Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_student: at New York University and I will be graduating in December 2020. I have created software [projects](#projects) in many different aspects, where I gained a wide range of software development skills. Besides school work, I have internships at two startup companies and currently work on an open-source desktop tool in NYU mLab. I’m looking forward to joining a larger corporation to explore my Career!
 
 
 # Current working on
@@ -20,7 +20,7 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 # Skills
 **Programming Languages:** Python, Java, Javascript, C/C++, Shell/Scripting, Matlab, SQL, HTML, CSS
 
-**Frameworks and Technologies:** SpringBoot, Express.js, React.js, MongoDB, Flask, MySQL, Docker, Aws, Git, Linux/Unix, Filezilla, VMware, VirtualBox,
+**Frameworks and Technologies:** SpringBoot, Express.js, React.js, MongoDB, Flask, MySQL, Docker, Aws, Git, Linux/Unix, Filezilla, VMware, VirtualBox
 
 **Architectures:** Object-Oriented Programming and Design, Multi-tired Systems, Optimization Mathematics, Agile Development, RESTful, Server-Client
 
