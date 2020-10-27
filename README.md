@@ -11,16 +11,14 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 - School
   - [Machine Learning](https://github.com/shaochris/introml)
   - Digital Signal Processing
-  - Java
   
-# Graphical presentation of Coding Language, Data Structures and Algorithms experience (Since Oct 2020)
-- [Coding Language](https://codestats.net/users/shaochris)
-- [Leetcode Practice](https://www.notion.so/dd503eddd14640f88dda316b9196850e?v=ce9838f125094f9498a7632ebc58db25)
+
 
 # Skills
-**Programming Languages:** Python, Java, Javascript, C/C++, Shell/Scripting, Matlab, SQL, HTML, CSS
+**Programming Languages:** Python, Java, Javascript, C/C++, Shell/Scripting, Matlab, SQL, HTML, CSS 
+- [Partial Programming Language Stats](https://codestats.net/users/shaochris)
 
-**Frameworks and Technologies:** SpringBoot, Express.js, React.js, MongoDB, Flask, MySQL, Docker, Aws, Git, Linux/Unix, Filezilla, VMware, VirtualBox
+**Frameworks and Technologies:** SpringBoot, Express.js, React.js, MongoDB, Flask, MySQL, Docker, Aws, Git, Linux/Unix, Pyinstaller, Filezilla, VMware, MacOS App Distribution
 
 **Architectures:** Object-Oriented Programming and Design, Multi-tired Systems, Optimization Mathematics, Agile Development, RESTful, Server-Client
 
@@ -31,7 +29,7 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 
 - HTTP File Transfer Server (C/C++)
 
-- Music Mixer (Python)
+- Desktop Music Mixer (Python)
 
 - [Risc-V Simulator](https://github.com/shaochris/risc5-simulator) (C/C++)
 
@@ -50,7 +48,7 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 - [Reading](https://www.notion.so/Reading-List-161d31d0d8064a259b789881e919ee96):book:
 
 - Travel:airplane:
-  - Planning: South America, Mediterranean region
+  - Planning: South America, Mediterranean region, West Asia
   
 - Snowskating:snowboarder:
 
