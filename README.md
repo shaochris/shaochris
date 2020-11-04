@@ -65,6 +65,6 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 - Linkedin: [Chris Chin-shu Shao](www.linkedin.com/in/chris-chinshu-shao)
 - Instagram: [chris_shao_](https://www.instagram.com/chris_shao_/)
 - Neteast Song List:
-  - [TRAP](https://music.163.com/#/my/m/music/playlist?id=1992764918)
+  - [Pop](https://music.163.com/#/my/m/music/playlist?id=1992764918)
   - [Chinese Music](https://music.163.com/#/my/m/music/playlist?id=519295158)
   - [Vocal](https://music.163.com/#/my/m/music/playlist?id=706609609)
