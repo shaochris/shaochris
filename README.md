@@ -53,7 +53,7 @@ Hi, I'm Chris (he/him)--a second year Computer Engineering graduate student:man_
 - Snowskating:snowboarder:
 
 - Rave:sparkler:
-  - Planning: TomorrowLand in Belgium
+  - Planning: TomorrowLand, Coachella 
 
 - [Favoriate Art Works](https://www.notion.so/Favorite-Art-Works-9881c44513b44aa587f2cc7223a85abd)
 
