@@ -6,9 +6,9 @@ I have very broad interests and created software [projects](#projects) in many d
 
 # Current working on
 
-- Preparing for a 3 day Game Jam project in a team of 8
-
 - Building personal website
+
+- Leetcode in Golang
 
 - Learning IOS Development
   
