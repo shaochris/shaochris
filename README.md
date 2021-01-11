@@ -34,5 +34,6 @@ I have very broad interests and created software [projects](#projects) in many d
 # Contacts
 
 - :email: <shaochris313@gmail.com>
+- 🖥 https://calendly.com/shaochris
 - Linkedin: [Chris Chin-shu Shao](www.linkedin.com/in/chris-chinshu-shao)
 - Instagram: [chris_shao_](https://www.instagram.com/chris_shao_/)
