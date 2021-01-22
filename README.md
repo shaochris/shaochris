@@ -9,8 +9,7 @@ In Summer 2019, I worked closely with senior engineers at Chihuo Inc. as an inte
 
 In Fall 2020, I led the system deployment issue research of an open-source [IoT network inspect desktop tool](https://github.com/nyu-mlab/iot-inspector-client) at NYU mLab.
 
-
-## Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
@@ -24,7 +23,6 @@ In Fall 2020, I led the system deployment issue research of an open-source [IoT 
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNU-Bash)
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=Mathworks)
 
-## Tech Stacks
 ### Backend
 ![SpringBoot](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
